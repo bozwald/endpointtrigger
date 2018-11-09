@@ -4,4 +4,7 @@ End point triggers look for process behaviours to detect infection, sometimes yo
 
 Here will be a Macro Enabled Excel File which will launch a Powershell Session on opening and will run a whoami, it may also present a message box with customizable text inside. 
 
+
+NOTE: The file is by default broken, in order to work the macro needs fixing. 
+
 This can even be used for training and security awareness.
